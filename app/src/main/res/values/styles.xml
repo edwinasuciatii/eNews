@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+    <style name="clickAble">
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="TextBoldLarge">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily"> @font/custom_font_bold</item>
+    </style>
+    <style name="TextBoldExtraLarge">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily"> @font/custom_font_bold</item>
+    </style>
+    <style name="TextBoldNormal">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily"> @font/custom_font_bold</item>
+    </style>
+    <style name="TextMediumLarge">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily"> @font/custom_font_medium</item>
+    </style>
+    <style name="TextMediumNormal">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily"> @font/custom_font_medium</item>
+    </style>
+</resources>

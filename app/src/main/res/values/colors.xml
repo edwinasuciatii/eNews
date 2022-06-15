@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FCFDFD</color>
+    <color name="yellow">#F7B419</color>
+    <color name="dark_yellow">#DA9904</color>
+    <color name="colorPrimary">#5C6DB0</color>
+    <color name="blue">#4A5D9E</color>
+    <color name="colorPrimaryDark">#243E7B</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="warm_white">#EAEAEA</color>
+    <color name="light_gray">#E3E0E0</color>
+    <color name="line_dashboard">#0D0F5D85</color>
+    <color name="line">#ECEFF2</color>
+    <color name="gray">#BDBBBB</color>
+    <color name="dark_gray">#A3A1A1</color>
+    <color name="dark_gray2">#938E8E</color>
+    <color name="dark_gray3">#898A8D</color>
+    <color name="dark_gray4">#5E5E5E</color>
+    <color name="green">#168581</color>
+    <color name="green3">#2EB985</color>
+
+    <color name="dark_green">#09696A</color>
+    <color name="green2">#E9FDFF</color>
+    <color name="red">#F05253</color>
+    <color name="black2">#3B3B3B</color>
+    <color name="black3">#5C5959</color>
+    <color name="gray2">#C4C4C4</color>
+    <color name="gray3">#DADDDF</color>
+    <color name="dark_gray5">#868686</color>
+    <color name="dark_gray6">#979797</color>
+    <color name="light_gray2">#AAAAAA</color>
+    <color name="light_gray3">#DADADA</color>
+    <color name="blue_transparent">#16168581</color>
+    <color name="yellow_transparent">#FFF8E6</color>
+    <color name="yellow2">#FCC843</color>
+    <color name="black_transparent">#3B3B3B45</color>
+
+</resources>
